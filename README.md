@@ -1,6 +1,6 @@
-# Hey, I'm Gurshaan Gill 👋
+# Hey, I'm Gurshaan Gill 
 
-Mechatronics Engineering student at the **University of Waterloo** (Tron '29), building at the intersection of robotics, computer vision, and AI. I like making things that actually move, think, and work in the real world — not just in notebooks.
+Mechatronics Engineering student at the **University of Waterloo** (Tron '31), building at the intersection of robotics, computer vision, and AI. I like making things that actually move, think, and work in the real world.
 
 Currently looking for **co-op roles starting May 2025** in robotics, ML, or software.
 
@@ -10,16 +10,17 @@ Currently looking for **co-op roles starting May 2025** in robotics, ML, or soft
 
 ### Hardware & Robotics
 - **Bionic Hand** — 3D-printed prosthetic hand controlled by real-time hand tracking via MediaPipe. Maps joint angles to servo positions for fluid, natural motion.
-- **4-DOF Robotic Arm** — Custom-designed arm with object recognition that autonomously picks up and places objects. Full perception-to-actuation pipeline.
-- **Hexapod Robot** — Six-legged walking robot with PID-controlled gait coordination across all legs simultaneously.
+- **Quadpod Robot** — Four-legged walking robot with PID-controlled gait coordination across all legs simultaneously.
 
 ### Controls & Systems
 - **Automatic PID Tuner** — Uses gradient descent to automatically tune PID controller gains in MATLAB/Simulink. Eliminates manual trial-and-error tuning.
 
 ### Computer Vision & ML
-- **Behavioral Interview Analyzer** — Web platform where users practice interviews while a CV pipeline analyzes eye contact, posture, facial expressions, and filler words in real time. LLM grades answer quality against the STAR framework.
+- **Using Machine Learning Algorithms to Predict RUL** - Predicts the Remaining Useful Life (RUL) of turbofan jet engines using the NASA C-MAPSS dataset, comparing Random Forest, XGBoost, LSTM, and an LSTM+XGBoost ensemble.
+- **Transformer Architecture Used to Predict iEEG Data from Neuro Signals** - Ongoing
+- **Behavioral Interview Analyzer (Framelyai)** — Web platform where users practice interviews while a CV pipeline analyzes eye contact, posture, facial expressions, and filler words in real time. LLM grades answer quality against the STAR framework.
 - **Gesture-Controlled Computer** — Real-time hand tracking system that lets you control your computer (click, scroll, drag) using only hand gestures. Built with MediaPipe + PyAutoGUI.
-- **Satellite Deforestation Detector** — Classifies satellite imagery to detect deforestation using transfer learning. Trained on Amazon from Space dataset.
+- **Satellite Deforestation Detector** — Classifies satellite imagery to detect deforestation using custom CNN architecture learning. Trained on Amazon from Space dataset.
 
 ### AI & Agents
 - **Phone → Computer Agent** — Text a message from your phone and an LLM agent executes tasks on your computer (create slideshows, manage files, open apps).
@@ -31,9 +32,9 @@ Currently looking for **co-op roles starting May 2025** in robotics, ML, or soft
 ## 🛠 Skills
 
 **Languages:** Python, C++, MATLAB, JavaScript  
-**ML/AI:** PyTorch, scikit-learn, HuggingFace Transformers, OpenCV, MediaPipe  
-**Robotics:** ROS, PID control, kinematics, servo/motor control, sensor fusion  
-**Tools:** Simulink, FAISS, FastAPI, Streamlit, Git, Raspberry Pi, Arduino
+**ML/AI:** PyTorch, scikit-learn, HuggingFace Transformers, OpenCV, MediaPipe, Pandas, Numpy, Matplotlib  
+**Robotics:** ROS2, PID control, kinematics, servo/motor control 
+**Tools:** Simulink, FastAPI, Arduino
 
 ---
 
