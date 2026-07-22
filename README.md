@@ -1,20 +1,29 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-</picture>
-<h1 align="center">Hey, I'm Gurshaan Gill 👋</h1>
+<table>
+<tr>
+<td valign="middle" width="50%">
 
 <p align="center">
-Mechatronics Engineering student at the <b>University of Waterloo</b> (Tron '31) — building with passion in robotics, computer vision, and AI.<br/>
+Mechatronics Engineering student at the <b>University of Waterloo</b> (Tron '31). Building with passion in robotics, computer vision, and AI.<br/>
 I like making things that actually move, think, and work in the real world.
 </p>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/gurshaan-gill-5b48603a4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://gurshaangill.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:gurshaan1124@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+</td>
+<td valign="middle" width="50%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="gurshh-rain's GitHub profile" src="dark_mode.svg" width="100%" />
+</picture>
+
+</td>
+</tr>
+</table>
 
 ## 🤖 What I Build
 
