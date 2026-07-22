@@ -38,7 +38,7 @@ Mechatronics Engineering student at the **University of Waterloo** (Tron '31), b
 ## 📫 Let's Connect
 
 - 🔗 LinkedIn: [www.linkedin.com/in/gurshaan-gill-5b48603a4](#)
-- 🌐 Portfolio: [gurshaan.vercel.app](#)
+- 🌐 Portfolio: [gurshaangill.vercel.app](#)
 - 📧 Email: [gurshaan1124@gmail.com](#)
 
 ---
