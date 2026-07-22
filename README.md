@@ -43,9 +43,6 @@ I like making things that actually move, think, and work in the real world.
 
 **Robotics** &nbsp;`ROS2` `PID Control` `Kinematics` `Servo/Motor Control`
 
-**Tools** &nbsp;`Simulink` `FastAPI` `Arduino`
-
----
 
 ## 📫 Let's Connect
 
