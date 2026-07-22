@@ -1,3 +1,6 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+</picture>
 <h1 align="center">Hey, I'm Gurshaan Gill 👋</h1>
 
 <p align="center">
