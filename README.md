@@ -36,7 +36,7 @@ I like making things that actually move, think, and work in the real world.
 
 ### Computer Vision & ML
 - **Turbofan RUL Prediction** — Predicts Remaining Useful Life of jet engines using the NASA C-MAPSS dataset, comparing Random Forest, XGBoost, LSTM, and an LSTM+XGBoost ensemble.
-- **iEEG Signal Transformer** *(ongoing)* — Transformer architecture for predicting iEEG data from neural signals.
+- **iEEG Signal Transformer** — Transformer architecture for predicting iEEG data from neural signals. Comparing transformer performance to XGBoost. *(still need to add XGBoost)*
 - **Framelyai — Behavioral Interview Analyzer** — Web platform analyzing eye contact, posture, expressions, and filler words in real time, with an LLM grading answers against the STAR framework.
 - **Gesture-Controlled Computer** — Real-time hand tracking to click, scroll, and drag using only gestures, built with MediaPipe + PyAutoGUI.
 - **Satellite Deforestation Detector** — Custom CNN classifying satellite imagery to detect deforestation, trained on the Amazon from Space dataset.
