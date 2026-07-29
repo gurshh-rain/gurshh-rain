@@ -44,6 +44,7 @@ I like making things that actually move, think, and work in the real world.
 ### AI & Agents
 - **RAG Portfolio Chatbot** — Ask anything about me, built from scratch with sentence-transformers, FAISS vector search, and a local LLM.
 - **Linked Zip Bot** — Reinforcement learning agent trained to solve the Zip game.
+- **Zenai** - Terminal based agent (connect mcp's to control different apps)
 
 ---
 
