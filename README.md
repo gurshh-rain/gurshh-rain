@@ -50,11 +50,11 @@ I like making things that actually move, think, and work in the real world.
 
 ## 🛠 Skills
 
-**Languages** &nbsp;`Python` `C++` `MATLAB` `Java`
+**Languages** &nbsp;`Python` `C++` `MATLAB` `Java` `HTML` `CSS` `Typescript`
 
 **ML / AI** &nbsp;`PyTorch` `scikit-learn` `OpenCV` `MediaPipe` `Pandas` `NumPy` `Matplotlib`
 
-**Robotics** &nbsp;`ROS2` `PID Control` `Kinematics` `Servo/Motor Control`
+**Robotics** &nbsp;`ROS2` `PID Control` `Kinematics` `Servo/Motor Control` `Gazebo` `Nav2` `Fusion 360` `SOLIDWORKS` `Blender` `ANSYS`
 
 
 ## 📫 Let's Connect
