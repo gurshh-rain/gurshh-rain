@@ -45,6 +45,7 @@ I like making things that actually move, think, and work in the real world.
 - **Linked Zip Bot** — Reinforcement learning agent trained to solve the Zip game.
 - **Zenai** - Terminal based agent (connect mcp's to control different apps)
 
+### Research Papers *(soon to come)*
 ---
 
 ## 🛠 Skills
