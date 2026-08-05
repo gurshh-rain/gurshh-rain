@@ -55,7 +55,7 @@ I like making things that actually move, think, and work in the real world.
 
 **ML / AI** &nbsp;`PyTorch` `scikit-learn` `OpenCV` `MediaPipe` `Pandas` `NumPy` `Matplotlib`
 
-**Robotics** &nbsp;`ROS2` `PID Control` `Kinematics` `Servo/Motor Control` `Gazebo` `Nav2` `Fusion 360` `SOLIDWORKS` `Blender` `ANSYS`
+**Robotics** &nbsp;`ROS2` `PID Control` `Isaac Sim` `Servo/Motor Control` `Gazebo` `Nav2` `Fusion 360` `SOLIDWORKS` `Blender` `ANSYS`
 
 
 ## 📫 Let's Connect
