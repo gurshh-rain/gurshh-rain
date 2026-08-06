@@ -29,8 +29,8 @@ I like making things that actually move, think, and work in the real world.
 ### Hardware & Robotics
 - **Bionic Hand** — 3D-printed prosthetic hand controlled by real-time hand tracking via MediaPipe, mapping joint angles to servo positions for fluid, natural motion.
 - **Quadpod Robot** — Four-legged walking robot with PID-controlled coordination across all legs simultaneously. Used ultrasonic sensor for object detection while walking.
-- **ROS2 Fleet Robot Manager** - Automate multi robot workflows in a warehouse with an automated task queue sending to the nearest robot. *(still in progress)*
-- **ROS2 Robotic Arm (YOLOv8) control** - Trained robotic arm in gazebo to detect objects using YOLOv8 and picks them up.
+- **ROS2 Fleet Robot Manager** - Automate multi robot workflows in a warehouse with an automated task queue sending to the nearest robot. 
+- **ROS2 Robotic Arm (YOLOv8) control** - Trained robotic arm in gazebo to detect objects using YOLOv8 and picks them up. *(still in progress)*
 ### Controls & Systems
 - **Automatic PID Tuner** — Uses gradient descent to automatically tune PID controller gains in MATLAB/Simulink, eliminating manual trial-and-error tuning.
 
