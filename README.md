@@ -31,6 +31,7 @@ I like making things that actually move, think, and work in the real world.
 - **Quadpod Robot** — Four-legged walking robot with PID-controlled coordination across all legs simultaneously. Used ultrasonic sensor for object detection while walking.
 - **ROS2 Fleet Robot Manager** - Automate multi robot workflows in a warehouse with an automated task queue sending to the nearest robot. 
 - **ROS2 6-DOF Robotic Arm Simulation (YOLOv8) control** - Trained robotic arm in gazebo to detect objects using YOLOv8 and picks them up. *(still in progress)*
+- **ROS2 Lidar Room Scanning Bot + Computer Vision Sensing (YOLO)** - LiDAR navigation system to scan room + detect objects through the COCO dataset. Generates 3D map of room.
 ### Controls & Systems
 - **Automatic PID Tuner** — Uses gradient descent to automatically tune PID controller gains in MATLAB/Simulink, eliminating manual trial-and-error tuning.
 
