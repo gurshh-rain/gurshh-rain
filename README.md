@@ -37,15 +37,17 @@ I like making things that actually move, think, and work in the real world.
 
 ### Computer Vision & ML
 - **Turbofan RUL Prediction** — Predicts Remaining Useful Life of jet engines using the NASA C-MAPSS dataset, comparing Random Forest, XGBoost, LSTM, and an LSTM+XGBoost ensemble.
-- **iEEG Signal Transformer** — Transformer architecture for predicting iEEG data from neural signals. Comparing transformer performance to XGBoost. *(still need to add XGBoost)*
+- **Predicting Neuro iEEG Data Comparing XGBoost And Transformer Architectures** — Transformer architecture for predicting iEEG data from neural signals. Comparing transformer performance to XGBoost. *(still need to add XGBoost)*
 - **Framelyai — Behavioral Interview Analyzer** — Web platform analyzing eye contact, posture, expressions, and filler words in real time, with an LLM grading answers against the STAR framework.
 - **Gesture-Controlled Computer** — Real-time hand tracking to click, scroll, and drag using only gestures, built with MediaPipe + PyAutoGUI.
 - **Satellite Deforestation Detector** — Custom CNN classifying satellite imagery to detect deforestation, trained on the Amazon from Space dataset.
+- **Brain Functional Connectivity During AI Assisted Essay Writing** - Brain Functional Connectivity During AI-Assisted Essay Writing An EEG surface-recording study analysing OpenNeuro ds008496 (Brain Connectivity Based on EEG of Student Learning Processes Using Gen-AI).
+- **META Tribe V2 Interactive Brain Viewer With User Engagement Tracking** - Given a video, process all the video and sound to get a 3D view of neural activity in the brain through META's tribe v2 model. Signals video attention. 
 
 ### AI & Agents
 - **RAG Portfolio Chatbot** — Ask anything about me, built from scratch with sentence-transformers, FAISS vector search, and a local LLM.
-- **Linked Zip Bot** — Reinforcement learning agent trained to solve the Zip game.
-- **Zenai** - Terminal based agent (connect mcp's to control different apps)
+- **Linked Zip Bot** — Reinforcement learning agent trained to solve the Zip game. Trained on 5+ hours of consistent gameplay.
+- **Zenai** - Terminal based agent (connect mcp's to control different apps).
 
 ### Research Papers *(soon to come)*
 ---
