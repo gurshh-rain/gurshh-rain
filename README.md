@@ -45,6 +45,7 @@ I like making things that actually move, think, and work in the real world.
 - **META Tribe V2 Interactive Brain Viewer With User Engagement Tracking** - Given a video, process all the video and sound to get a 3D view of neural activity in the brain through META's tribe v2 model. Signals video attention. 
 
 ### AI & Agents
+- **Agentic Research Search** — Deployed 5 sub-agents locally to do research, fact check, validate with reliable sources
 - **RAG Portfolio Chatbot** — Ask anything about me, built from scratch with sentence-transformers, FAISS vector search, and a local LLM.
 - **Linked Zip Bot** — Reinforcement learning agent trained to solve the Zip game. Trained on 5+ hours of consistent gameplay.
 - **Zenai** - Terminal based agent (connect mcp's to control different apps).
