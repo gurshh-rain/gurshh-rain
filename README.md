@@ -46,6 +46,7 @@ I like making things that actually move, think, and work in the real world.
 
 ### AI & Agents
 - **Agentic Research Search** — Deployed 5 sub-agents locally to do research, fact check, validate with reliable sources
+- **Ascend - Local Job Search Agent** — Designed and developed an agent to run daily job scrapings, based on location, skills, and title keywords. 
 - **RAG Portfolio Chatbot** — Ask anything about me, built from scratch with sentence-transformers, FAISS vector search, and a local LLM.
 - **Linked Zip Bot** — Reinforcement learning agent trained to solve the Zip game. Trained on 5+ hours of consistent gameplay.
 - **Zenai** - Terminal based agent (connect mcp's to control different apps).
