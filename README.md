@@ -3,7 +3,7 @@
 <td valign="middle" width="50%">
 
 <p align="center">
-Mechatronics Engineering student at the <b>University of Waterloo</b> (Tron '31). Building with passion in robotics, computer vision, AI/ML, agents, and the future of technology.<br/>
+Mechatronics Engineering student at the <b>University of Waterloo</b> (Tron '31). Building with passion in physical ai learning, computer vision, AI/ML, agents, and the future of technology.<br/>
 I like making things that actually move, think, and work in the real world.
 </p>
 <p align="center">
