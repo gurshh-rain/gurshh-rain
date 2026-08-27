@@ -64,10 +64,5 @@ I like making things that actually move, think, and work in the real world.
 
 **Other** &nbsp;`Fusion 360` `SOLIDWORKS` `Blender` `ANSYS` `MATLAB`
 
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gurshaan-gill-5b48603a4)
-- 🌐 [Portfolio](https://gurshaangill.vercel.app)
-- 📧 [gurshaan1124@gmail.com](mailto:gurshaan1124@gmail.com)
 
 <p align="center"><i>Always building something. Always learning.</i></p>
