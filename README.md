@@ -4,7 +4,6 @@
 
 <p align="center">
 Mechatronics Engineering student at the <b>University of Waterloo</b> (Tron '31). Building with passion in physical ai learning, computer vision, AI/ML, agents, and the future of technology.<br/>
-I like making things that actually move, think, and work in the real world.
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/gurshaan-gill-5b48603a4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
