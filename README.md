@@ -18,7 +18,6 @@ Mechatronics Engineering student at the <b>University of Waterloo</b> (Tron '31)
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
   <img alt="gurshh-rain's GitHub profile" src="dark_mode.svg" width="100%" />
 </picture>
-
 </td>
 </tr>
 </table>
