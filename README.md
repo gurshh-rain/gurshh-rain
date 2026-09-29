@@ -32,4 +32,3 @@ Mechatronics Engineering student at the <b>University of Waterloo</b> (tron '31)
 **Other** &nbsp;`Fusion 360` `SOLIDWORKS` `Blender` `ANSYS` `MATLAB`
 
 
-<p align="center"><i>Always building something. Always learning.</i></p>
